@@ -340,3 +340,4 @@ tests/
 /graphs/*
 
 get_graphs.cmd
+transformed_examples/
